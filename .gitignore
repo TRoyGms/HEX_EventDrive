@@ -1,0 +1,10 @@
+# Ignorar node_modules
+node_modules/
+client/node_modules/
+
+# Ignorar archivos de configuración sensibles
+*.env
+client/.env
+orderService/.env
+paymentService/.env
+consumer/.env
